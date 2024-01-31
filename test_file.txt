@@ -1,1 +1,2 @@
 hii, Welcome to Git
+Lrt's starts with git training
