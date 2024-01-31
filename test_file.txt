@@ -1,2 +1,2 @@
 hii, Welcome to Git
-Let's start with git 
+Let's start with git training
